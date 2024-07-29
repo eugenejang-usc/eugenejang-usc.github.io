@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD candidate, University of Southern California</a>.
+subtitle: <a href='#'>PhD candidate, University of Southern California</a>
 
 profile:
   align: right
