@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: <h5>You can find my publications below or on my <a href = 'https://scholar.google.com/citations?user=PB-DOw8AAAAJ&hl=en'>Google Scholar page</a>.</h5>
 years: [2023,2022,2020,2019]
 nav: true
