@@ -4,7 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: CV_Eugene_Jang_2024_v2.pdf
-toc:
-  sidebar: center
+cv_pdf: eugenejang_cv.pdf
+
 ---
