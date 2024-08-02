@@ -10,7 +10,8 @@ I taught courses at USC and SNU in areas such as introductory communication theo
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
+        border: 1px solid black
+        padding: 1rem;
         }
 </style>
 
