@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Ph.D. in Communication
 
 profile:
   align: right
