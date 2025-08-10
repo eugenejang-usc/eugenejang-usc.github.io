@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Ph.D. in Communication</strong>
+<strong>
+Assistant Professor, Rochester Institute of Technology
+  <br><span style="line-height: 1.8;">Ph.D. in Communication</span>
+  </strong>
 
 profile:
   align: right
