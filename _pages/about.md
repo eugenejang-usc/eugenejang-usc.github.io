@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Assistant Professor, Rochester Institute of Technology</span></strong>
+subtitle: <strong>Assistant Professor, Rochester Institute of Technology</strong>
 
 
 profile:
