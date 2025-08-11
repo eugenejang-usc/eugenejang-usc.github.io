@@ -6,7 +6,7 @@ title: Eugene Jang
 first_name: Eugene
 middle_name:
 last_name: Jang
-email: [Email me](mailto:{{ exjgla@rit.edu }})
+email: exjgla@rit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -107,7 +107,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: _EugeneJang
+x_username: #
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
