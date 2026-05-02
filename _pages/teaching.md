@@ -30,7 +30,7 @@ nav_order: 2
 
 |Semester         | Course       | Course Title                          | Role     |
 |:----------------|:-------------|:--------------------------------------|:---------|
-|2024 Spring      |  COMM204     |  Public Speaking       | **Instructor of Record**|
+|2024 Spring      |  COMM204     |  Public Speaking       | Instructor of Record|
 |2023 Fall        |  COMM200     |  Communication and Social Science       | Teaching Assistant|
 |2021 Fall        |  COMM309     |  Communication and Technology       | Teaching Assistant|
 {: .tablelines}
