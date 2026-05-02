@@ -6,7 +6,6 @@ description:
 nav: true
 nav_order: 2
 ---
-I taught courses at USC and SNU in areas such as introductory communication theories, communication and technology, public speaking, and visual communication.
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
@@ -14,6 +13,18 @@ I taught courses at USC and SNU in areas such as introductory communication theo
         padding: 10px 10px;
         }
 </style>
+
+**[Rochester Institute of Technology](https://www.rit.edu)**
+
+|Semester         | Course       | Course Title                          |
+|:----------------|:-------------|:--------------------------------------|
+|2026 Spring      |  COMM717     |  Artificial Intelligence and Communication |
+|2026 Spring      |  COMM356     |  Critical Practice in Social Media  |
+|2025 Fall        |  COMM605     |  Social Media Analytics and Research |  
+|2025 Fall        |  COMM356     |  Critical Practice in Social Media  |  
+{: .tablelines}
+
+<br/><br/>
 
 **[University of Southern California](https://www.usc.edu)**
 
